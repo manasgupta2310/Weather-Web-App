@@ -8,7 +8,6 @@ I wanted to lear about APIs, how to fetch them how 'then' work what are promisse
 # API
 
 Weather data is retrieved from http://openweathermap.org/
-Note:- The weather data retrived from Open Weather is not very accurate. Most of the time, the weather forecast is not correct.
 
 # About
 * It is a basic weather application on the top of the screen there is a search option where you can search your city.
